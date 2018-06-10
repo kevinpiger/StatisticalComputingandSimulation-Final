@@ -1,1 +1,5 @@
 # StatisticalComputingandSimulation-Final
+此份作業與同學陳初勝及許晉瑋一同完成
+
+比較K-means與EM的差異，並使用老忠實噴泉去進行兩個方法分群。
+對資料集NIPS進行分群
